@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidSearchViewSample</string>
+    <string name="search_title">検索</string>
+    <string name="search_hint">検索テキストの入力</string>
+</resources>
